@@ -43,7 +43,7 @@ logging.basicConfig(
 
 logger = logging.getLogger(__name__)
 
-usuarios_permitidos = ["cafloresp", "karemmr", "fermoygra", "espergon", "Mar_igl", "elisacampo13", "jlaherradon"]
+usuarios_permitidos = ["cafloresp", "karemmr", "fermoygra", "espergon", "Mar_igl", "elisacampo13", "jlaherradon", "Camynero"]
 msg_rechaza = '¡¡Tú no juegas brother, seguro eres Víctor Caminero, ahí no más joven, siga leyendo no más!!'
 
 with open("./planif.json", "r") as f:
